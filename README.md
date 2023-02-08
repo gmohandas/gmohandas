@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gmohandas
-- 👀 I’m interested in data and the stories it can tell about the past, the present and the future! 
+- 👀 I’m interested in telling stories, formulating and answering questions with data. 
 - 🌱 I’m currently learning reinforcement learning.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
